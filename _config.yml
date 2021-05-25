@@ -10,7 +10,7 @@ homepage:
 logo:
   mobile: "images/logo/bct-logo.png"
   desktop: "images/logo/bct-logo.png"
-  desktop_height: "36px"
+  desktop_height: "70px"
 
 footer:
   copyright_text: 'Content copyrights (c) Best Choice Technology'
