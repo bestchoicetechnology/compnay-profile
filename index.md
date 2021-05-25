@@ -1,12 +1,12 @@
 ---
-title: Jekyll Serif Theme
+title: Best Choice Technology
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Best Choice Technology Co., Ltd. official website. 
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Driving the world's informatization by IT facilitation
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Come back to our website soon to see more information. 
