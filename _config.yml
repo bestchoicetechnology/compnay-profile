@@ -9,6 +9,7 @@ homepage:
 
 logo:
   mobile: "images/logo/bct-logo.png"
+  mobile_height: "70px"
   desktop: "images/logo/bct-logo.png"
   desktop_height: "70px"
 
