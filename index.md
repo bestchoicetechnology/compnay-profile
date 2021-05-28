@@ -7,6 +7,8 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Driving the world's informatization by IT facilitation
+# บริษัท เบสท์ช้อยส์เทคโนโลยี จำกัด 
 
-Come back to our website soon to see more information. 
+Best Choice Technology Co., Ltd. 
+
+*Driving the world's informatization by IT facilitation*
